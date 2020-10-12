@@ -1,0 +1,13 @@
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\bin\Debug\netcoreapp3.1\MonitoringFolder.exe
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\bin\Debug\netcoreapp3.1\MonitoringFolder.deps.json
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\bin\Debug\netcoreapp3.1\MonitoringFolder.runtimeconfig.json
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\bin\Debug\netcoreapp3.1\MonitoringFolder.runtimeconfig.dev.json
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\bin\Debug\netcoreapp3.1\MonitoringFolder.dll
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\bin\Debug\netcoreapp3.1\MonitoringFolder.pdb
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\obj\Debug\netcoreapp3.1\MonitoringFolder.csprojAssemblyReference.cache
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\obj\Debug\netcoreapp3.1\MonitoringFolder.AssemblyInfoInputs.cache
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\obj\Debug\netcoreapp3.1\MonitoringFolder.AssemblyInfo.cs
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\obj\Debug\netcoreapp3.1\MonitoringFolder.dll
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\obj\Debug\netcoreapp3.1\MonitoringFolder.pdb
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\obj\Debug\netcoreapp3.1\MonitoringFolder.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\repos\MonitoringFolder\MonitoringFolder\obj\Debug\netcoreapp3.1\MonitoringFolder.genruntimeconfig.cache
